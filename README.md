@@ -1,2 +1,2 @@
-# ITMD361
-All my files for the ITMD361 course
+# ITMD361-Lab1
+Files for Lab 1
